@@ -1,0 +1,2 @@
+export const ADD_EXPANSE="ADD_EXPANSE"
+export const DELETE_EXPANSE="DELETE_EXPANSE"
